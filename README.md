@@ -3,7 +3,7 @@
 | By MUHAMMAD AREEB|
 |---------------------------------------------------------------------------------|
 | Bachelors of Science in Geographic Information Systems & Technology |
-| Course: DATA 363 |
+| Course: GIST 498 |
 | [officialareeb@outlook.com](mailto:officialareeb@outlook.com) |
 
 ### Paper:
