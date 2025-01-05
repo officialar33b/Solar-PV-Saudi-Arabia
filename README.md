@@ -1,5 +1,20 @@
 # Title: Suitability Analysis of Potential Solar Power Farms in Saudi Arabia
 
+| By MUHAMMAD AREEB|
+|---------------------------------------------------------------------------------|
+| Bachelors of Science in Geographic Information Systems & Technology |
+| Course: GIST 498 |
+| [officialareeb@outlook.com](mailto:officialareeb@outlook.com) |
+
+### Paper:
+[Link to Paper](./SUITABILITY%20ANALYSIS%20OF%20POTENTIAL%20SOLAR%20POWER%20FARMS%20IN%20SAUDI%20ARABIA%20Final%20Draft%204.pdf)
+
+
+### Storymap:
+[Story Map](https://storymaps.arcgis.com/stories/33ddeebd0eaa4903b57454396c3f6cf4)
+
+## SUMMARY
+
 ### Description:
 
 This study aims to address the geographical issue of finding the best solar power plant/farm regions in the western provinces of Saudi Arabia. For this, 6 different parameters are being assessed, namely Solar Radiation (PVOUT), Temperature, Distance to Roads, Distance to Transmission Lines, Slope, and Aspect. These are combined with a restriction/constraints layer to create the final output.
@@ -39,10 +54,3 @@ The study provides a multi-criteria decision analysis (MCDA) workflow to produce
 Looking at the final suitability map, it can be inferred that the best areas for setting up large scale solar plant facilities lie primarily in the northwestern region of Saudi Arabia, with a plentiful regions in the southwest as well.
 
 Assuming only 10% of this area is committed to solar power production, about 10 GW of power can be produced in this region, which is about 87.6 TWh (Terawatt hour) units of energy which is about 90% of the energy consumed in the western provinces of KSA.
-
-### Paper:
-[Link to Paper](./SUITABILITY%20ANALYSIS%20OF%20POTENTIAL%20SOLAR%20POWER%20FARMS%20IN%20SAUDI%20ARABIA%20Final%20Draft%203.pdf)
-
-
-### Storymap:
-[Story Map](https://storymaps.arcgis.com/stories/33ddeebd0eaa4903b57454396c3f6cf4)
